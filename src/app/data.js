@@ -59,6 +59,13 @@ export const projectsData = [
     date: '2024-11-28',
     demoLink: 'https://mongo-crud-peach.vercel.app/',
   },
+  {
+    id: 7,
+    name: 'final-dob',
+    description: 'Web Server Security Programming : team project demo',
+    date: '2024-12-18',
+    demoLink: 'https://final-dob-team-project.vercel.app/',
+  },
 ]
 
 export const BtnList = [
