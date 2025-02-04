@@ -43,14 +43,14 @@ export const projectsData = [
     name: 'clerk-api',
     description: 'Clerk Auth',
     date: '2024-10-24',
-    demoLink: 'https://dob-team-project-wsxt.vercel.app/',
+    demoLink: 'https://clerk-api-navy.vercel.app/',
   },
   {
     id: 5,
     name: 'crud-action',
     description: 'MongoDB Crud(no-login)',
     date: '2024-11-19',
-    demoLink: 'https://dob-team-project-wsxt.vercel.app/',
+    demoLink: 'https://crud-action.vercel.app/',
   },
   {
     id: 6,
